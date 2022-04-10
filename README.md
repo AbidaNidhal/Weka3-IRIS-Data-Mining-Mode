@@ -1,4 +1,5 @@
 # Weka3-IRIS-Data-Mining-Mode
+#Steps
 download Weka3 Stable version<br/>
 https://www.cs.waikato.ac.nz/ml/weka/<br/>
 Open the iris.arff<br/>
