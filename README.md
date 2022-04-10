@@ -21,5 +21,4 @@ Q2 : Why standardize and not normalize ?
 A2 : Both normalize and standardize can be used to scale the data. I prefer to use standardize as it scales the data to zero mean and unit variance (sd=1)
 ## Screenshots
 
-![App Screenshot]( Weka3-IRIS-Data-Mining-Mode/IRIS-Data-Mining.png )
-
+![App Screenshot](https://raw.githubusercontent.com/AbidaNidhal/Weka3-IRIS-Data-Mining-Mode/main/IRIS-Data-Mining.png)
