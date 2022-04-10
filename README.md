@@ -1,4 +1,4 @@
-# Weka3-IRIS-Data-Mining-Mode
+# Weka3-IRIS-Data-Mining-Model
 
 ## Steps
 1 - download Weka3 Stable version from the link below:
